@@ -1,0 +1,8 @@
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\MyCar\MyCar\bin\Debug\MyCar.exe.config
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\MyCar\MyCar\bin\Debug\MyCar.exe
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\MyCar\MyCar\bin\Debug\MyCar.pdb
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\MyCar\MyCar\obj\Debug\MyCar.csproj.AssemblyReference.cache
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\MyCar\MyCar\obj\Debug\MyCar.csproj.SuggestedBindingRedirects.cache
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\MyCar\MyCar\obj\Debug\MyCar.csproj.CoreCompileInputs.cache
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\MyCar\MyCar\obj\Debug\MyCar.exe
+C:\Users\vaces\source\repos\Ingineering_Intership_CSharp\MyCar\MyCar\obj\Debug\MyCar.pdb
